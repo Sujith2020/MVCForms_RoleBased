@@ -13,6 +13,7 @@ namespace MVCRoleBasedAuthentication.Controllers
     {
         public ActionResult Login()
         {
+            string localbranch1 = "";
             return View();
         }
         [HttpPost]
