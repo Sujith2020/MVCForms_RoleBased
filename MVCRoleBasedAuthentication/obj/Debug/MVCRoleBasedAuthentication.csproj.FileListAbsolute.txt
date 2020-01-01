@@ -156,3 +156,4 @@ G:\Codes\gitrepos\MVCForms_RoleBased\MVCRoleBasedAuthentication\bin\roslyn\vbc.e
 G:\Codes\gitrepos\MVCForms_RoleBased\MVCRoleBasedAuthentication\bin\roslyn\vbc.rsp
 G:\Codes\gitrepos\MVCForms_RoleBased\MVCRoleBasedAuthentication\bin\roslyn\VBCSCompiler.exe
 G:\Codes\gitrepos\MVCForms_RoleBased\MVCRoleBasedAuthentication\bin\roslyn\VBCSCompiler.exe.config
+G:\Codes\gitrepos\MVCForms_RoleBased\MVCRoleBasedAuthentication\obj\Debug\MVCRoleBasedAuthentication.csprojAssemblyReference.cache

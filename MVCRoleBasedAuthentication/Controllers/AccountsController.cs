@@ -17,6 +17,7 @@ namespace MVCRoleBasedAuthentication.Controllers
             string localbranch1 = "";
             string testvariable = "";
             string test2 = "";
+            string test2_1 = "";
             return View();
         }
         [HttpPost]  
