@@ -13,9 +13,10 @@ namespace MVCRoleBasedAuthentication.Controllers
     {
         public ActionResult Login()
         {
+            string localbranch2 = "";
             return View();
         }
-        [HttpPost]
+        [HttpPost]  
         public ActionResult Login(UserModel model)
         {
             using (MVCDBEntity context = new MVCDBEntity())
