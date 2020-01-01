@@ -1,3 +1,6 @@
+
+USE MVC_DB
+
 select * from Employee
 select * from Users
 select * from RoleMaster

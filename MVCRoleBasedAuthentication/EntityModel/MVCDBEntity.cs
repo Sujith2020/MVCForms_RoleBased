@@ -7,8 +7,8 @@ namespace MVCRoleBasedAuthentication.EntityModel
 
     public partial class MVCDBEntity : DbContext
     {
-        public MVCDBEntity()
-            : base("name=MVCDBEntity")
+        //public MVCDBEntity() : base("name=MVCDBEntity")
+        public MVCDBEntity() : base("name=MVCDBEntityHome")  
         {
         }
 
